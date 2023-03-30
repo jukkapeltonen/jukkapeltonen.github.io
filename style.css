@@ -1,0 +1,60 @@
+* {
+    font-family: "Arial";
+}
+.jsharkkatyyli {
+    display: none;
+}
+body {
+    line-height: 1;
+}
+button {
+    background-color: #BEF1C3;
+}
+.punainen {
+    display: block;
+    color: #FF0000;
+    padding-left: 30px;
+}
+p {
+    font-size: 12px;
+}
+h1 {
+    color: #FF8D0D;
+}
+h2 {
+    color: #DA6616;
+}
+#guid2 {
+    color: #DA6616;
+    font-size: 20px;
+}
+.esimerkki-box {
+    background-color: #BEF1C3;
+    outline-style: solid;
+    padding: 10px;
+}
+h3 {
+    font-size: 15px;
+}
+    table {
+    border-spacing: 0px;
+    border-collapse: collapse;
+    margin: 0px;
+    font-size: 12px;
+    }
+    td {
+    border: 1px solid black;
+    padding-left: 5px;
+    padding-right: 150px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    }
+tr:nth-child(1) {
+    background-color: gainsboro;
+    }
+tr:nth-child(3) {
+    background-color: gainsboro;
+    }
+ol, ul {
+    font-size: 12px;
+}
